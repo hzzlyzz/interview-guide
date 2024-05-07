@@ -1,0 +1,6 @@
+.idea
+test.js
+.vscode/
+node_modules/
+cache/
+dist/
