@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/interview-guide/',
   title: "宝典",
   description: "宝典",
   markdown: {
